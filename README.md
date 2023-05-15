@@ -24,6 +24,6 @@
 |주제|담당자|링크|
 |:---:|:---:|:---:|
 |MVC 패턴에 대해서|문태준|-|
-|MVC 패턴에 대해서|손병주|-|
-|MVC 패턴에 대해서|송헌욱|-|
-|MVC 패턴에 대해서|이현범|-|
+|MVC 패턴에 대해서|손병주|[링크](https://glass-arthropod-188.notion.site/MVC-d951c07f421c4f348a664e02c1341f55)|
+|MVC 패턴에 대해서|송헌욱|[링크](https://velog.io/@itoriginal/MVC-패턴)|
+|MVC 패턴에 대해서|이현범|[링크](https://radical-syringa-6a9.notion.site/5-2-MVC-1a3400988a284d0d82f355c27f7cb508)|
