@@ -25,7 +25,7 @@
 |🚀 [학습한 MVC 패턴을 토대로 사라마라 프로젝트 리뷰하기](-)|문태준|
 |🚀 [주제 및 링크를 등록하세요.](-)|손병주|
 |🚀 [MVC 패턴 for SARAMARA
-]([-](https://velog.io/@itoriginal/MVC-%ED%8C%A8%ED%84%B4-for-SARAMARA#%EF%B8%8F%E2%99%80%EF%B8%8F-dto%EB%9E%80))|송헌욱|
+](https://velog.io/@itoriginal/MVC-%ED%8C%A8%ED%84%B4-for-SARAMARA#%EF%B8%8F%E2%99%80%EF%B8%8F-dto%EB%9E%80)|송헌욱|
 |🚀 [주제 및 링크를 등록하세요.](-)|이현범|
 
 <br>
