@@ -22,10 +22,10 @@
 
 |기록|담당자|
 |:---:|:---:|
-|🚀 [학습한 MVC 패턴을 토대로 사라마라 프로젝트 리뷰하기](-)|문태준|
-|🚀 [주제 및 링크를 등록하세요.](-)|손병주|
+|🚀 [나는 개발하며 MVC 패턴을 잘 지키고 있었을까?](https://velog.io/@langoustine/%EB%82%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-MVC-%ED%8C%A8%ED%84%B4%EC%9D%84-%EC%9E%98-%EC%A7%80%ED%82%A4%EA%B3%A0-%EC%9E%88%EC%97%88%EC%9D%84%EA%B9%8C)|문태준|
+|🚀 [MVC 실습 과제](https://glass-arthropod-188.notion.site/MVC-f82a7dd628e941f6a87fe8ca66afe28f)|손병주|
 |🚀 [MVC 패턴 for SARAMARA](https://velog.io/@itoriginal/MVC-%ED%8C%A8%ED%84%B4-for-SARAMARA#%EF%B8%8F%E2%99%80%EF%B8%8F-dto%EB%9E%80)|송헌욱|
-|🚀 [주제 및 링크를 등록하세요.](-)|이현범|
+|🚀 [MVC 관점에서 보는 Saramara 리뷰](https://radical-syringa-6a9.notion.site/5-3-MVC-Saramara-b28bf9c448b34687a9d334c5b3462519)|이현범|
 
 <br>
 
