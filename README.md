@@ -42,7 +42,7 @@
 
 ## Weekly Record(4-5 Week of May, 2023)
 
-### STEP 1: 미정
+### STEP 1: Spring Fremework의 핵심 원리 Spring Core
 일자: 2023년 5월 4주차
 
 |기록|담당자|
