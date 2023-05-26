@@ -42,7 +42,7 @@
 
 ## Weekly Record(4-5 Week of May, 2023)
 
-### STEP 1: Spring Fremework의 핵심 원리 Spring Core
+### STEP 1: Spring Fremework의 핵심 원리에 대해서
 일자: 2023년 5월 4주차
 
 |기록|담당자|
@@ -66,4 +66,9 @@
 
 <br>
 
+
 참고자료(우아한테크코스 테코톡):
+- [에어의 Spring VS Spring Boot](https://www.youtube.com/watch?v=Y11h-NUmNXI&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=177)
+- [유안의 Spring IoC/DI](https://www.youtube.com/watch?v=_OI9mKuFb7c&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=222)
+- [또링의 Spring과 Spring Boot](https://www.youtube.com/watch?v=OdpPvdB7qZY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=243)
+- [오찌, 야호의 DI와 IoC](https://www.youtube.com/watch?v=8lp_nHicYd4&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=91&t=95s)
