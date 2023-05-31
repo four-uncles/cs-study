@@ -42,19 +42,19 @@
 
 ## Weekly Record(4-5 Week of May, 2023)
 
-### STEP 1: Spring Fremework의 핵심 원리에 대해서
+### STEP 1: Spring Fremework 파헤치기(1) - 정의, 배경, 핵심요소(IoC/DI)
 일자: 2023년 5월 4주차
 
 |기록|담당자|
 |:---:|:---:|
-|🚀 [주제 및 링크를 입력하세요.](-)|문태준|
+|🚀 1. [Spring 파헤치기 - 첫번째 이야기](https://velog.io/@langoustine/Spring-01#if-spring--spring-framework)<br>🚀 2. [Spring 파헤치기 - 두번째 이야기](-)|문태준|
 |🚀 [주제 및 링크를 입력하세요.](-)|손병주|
-|🚀 [주제 및 링크를 입력하세요.](-)|송헌욱|
-|🚀 [주제 및 링크를 입력하세요.](-)|이현범|
+|🚀 1. [Spring Framework: Spring의 탄생](https://velog.io/@itoriginal/Spring-Framework-Basic-01)<br>2. [Spring Framework: "안녕하세요 Spring 입니다."](https://velog.io/@itoriginal/Spring-Framework-Basic-02)|송헌욱|
+|🚀 [Spring[Spring Core(1)_IOC/DI]](https://www.notion.so/5-4-Spring-Spring-Core-1-_IOC-DI-01c60fdddcf9400494469082b6e23a84)|이현범|
 
 <br>
 
-### STEP 2: 미정
+### STEP 2: Spring Fremework 파헤치기(2) - 핵심요소(AOP, PSA), 동작 원리(Spring Container)
 일자: 2023년 5월 5주차
 
 |기록|담당자|
