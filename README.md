@@ -68,7 +68,14 @@
 
 
 참고자료(우아한테크코스 테코톡):
-- [에어의 Spring VS Spring Boot](https://www.youtube.com/watch?v=Y11h-NUmNXI&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=177)
-- [유안의 Spring IoC/DI](https://www.youtube.com/watch?v=_OI9mKuFb7c&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=222)
-- [또링의 Spring과 Spring Boot](https://www.youtube.com/watch?v=OdpPvdB7qZY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=243)
-- [오찌, 야호의 DI와 IoC](https://www.youtube.com/watch?v=8lp_nHicYd4&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=91&t=95s)
+- Spring & Spring Boot
+  - [에어의 Spring VS Spring Boot](https://www.youtube.com/watch?v=Y11h-NUmNXI&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=177)
+  - [또링의 Spring과 Spring Boot](https://www.youtube.com/watch?v=OdpPvdB7qZY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=243)
+  - [닉의 Spring vs Spring Boot](https://www.youtube.com/watch?v=6h9qmKWK6Io&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=287&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC)
+- Spring IoC/DI
+  - [유안의 Spring IoC/DI](https://www.youtube.com/watch?v=_OI9mKuFb7c&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=222)
+  - [오찌, 야호의 DI와 IoC](https://www.youtube.com/watch?v=8lp_nHicYd4&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=91&t=95s)
+- Spring AOP
+  - [봄의 AOP와 Spring AOP](https://www.youtube.com/watch?v=hjDSKhyYK14&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=29&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC)
+  - [제이의 Spring AOP](https://youtu.be/Hm0w_9ngDpM)
+  - [뚱이의 AOP - Advice Target Pointcut](https://youtu.be/WQR_VQnz7Yg)
