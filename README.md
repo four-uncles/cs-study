@@ -48,7 +48,7 @@
 |기록|담당자|
 |:---:|:---:|
 |🚀 1. [Spring 파헤치기 - 첫번째 이야기](https://velog.io/@langoustine/Spring-01#if-spring--spring-framework)<br>🚀 2. [Spring 파헤치기 - 두번째 이야기](-)|문태준|
-|🚀 [주제 및 링크를 입력하세요.](-)|손병주|
+|🚀 [Spring에 대하여](https://glass-arthropod-188.notion.site/Spring-29c4ea960a8a4788867f9dcf30f1b7fb)|손병주|
 |🚀 1. [Spring Framework: Spring의 탄생](https://velog.io/@itoriginal/Spring-Framework-Basic-01)<br>2. [Spring Framework: "안녕하세요 Spring 입니다."](https://velog.io/@itoriginal/Spring-Framework-Basic-02)|송헌욱|
 |🚀 [Spring[Spring Core(1)_IOC/DI]](https://www.notion.so/5-4-Spring-Spring-Core-1-_IOC-DI-01c60fdddcf9400494469082b6e23a84)|이현범|
 
