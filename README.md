@@ -40,7 +40,7 @@
 
 <br><hr><br>
 
-## Weekly Record(4-5 Week of May, 2023)
+## Weekly Record(4-5 Week of May to 1-2 Week of June, 2023)
 
 ### STEP 1: Spring Fremework 파헤치기(1) - 정의, 배경, 핵심요소(IoC/DI)
 일자: 2023년 5월 4주차
@@ -54,12 +54,24 @@
 
 <br>
 
-### STEP 2: Spring Fremework 파헤치기(2) - 핵심요소(AOP, PSA), 동작 원리(Spring Container)
-일자: 2023년 5월 5주차
+### STEP 2: Spring Fremework 파헤치기(2) - 핵심요소(AOP, PSA)
+일자: 2023년 5월 5주차(6월 1주차)
 
 |기록|담당자|
 |:---:|:---:|
 |🚀 [Spring 파헤치기 - 두번째 이야기](https://velog.io/@langoustine/Spring-02)|문태준|
+|🚀 [Spring AOP/PSA](https://glass-arthropod-188.notion.site/Spring-AOP-PSA-4e29a610130240be9e95b267cc9117a3)|손병주|
+|🚀 1. [Spring Framework: Spring AOP](https://velog.io/@itoriginal/Spring-Framework-Basic-03)<br>🚀 2. [Spring Framework: Spring PSA](https://velog.io/@itoriginal/Spring-Framework-Basic-04)|송헌욱|
+|🚀 [주제 및 링크를 등록하세요.](-)|이현범|
+
+<br>
+
+### STEP 2: Spring Fremework 파헤치기(3) - Spring 동작 원리(Spring Container, Web MVC, Annotation ...)
+일자: 2023년 6월 2주차
+
+|기록|담당자|
+|:---:|:---:|
+|🚀 [주제 및 링크를 등록하세요.](-)|문태준|
 |🚀 [주제 및 링크를 등록하세요.](-)|손병주|
 |🚀 [주제 및 링크를 등록하세요.](-)|송헌욱|
 |🚀 [주제 및 링크를 등록하세요.](-)|이현범|
