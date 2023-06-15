@@ -47,7 +47,7 @@
 
 |기록|담당자|
 |:---:|:---:|
-|🚀 1. [Spring 파헤치기 - 첫번째 이야기](https://velog.io/@langoustine/Spring-01#if-spring--spring-framework)<br>🚀 2. [Spring 파헤치기 - 두번째 이야기](https://velog.io/@langoustine/Spring-02)|문태준|
+|🚀 1. [Spring 파헤치기 - Spring 파헤치기 - Spring의 이유와 목적 그리고 필요성에 대한 이야기](https://velog.io/@langoustine/Spring-01#if-spring--spring-framework)<br>🚀 2. [Spring 파헤치기 - Spring 파헤치기 - IoC와 DI, AOP, PSA에 대한 이야기](https://velog.io/@langoustine/Spring-02)|문태준|
 |🚀 [Spring에 대하여](https://glass-arthropod-188.notion.site/Spring-29c4ea960a8a4788867f9dcf30f1b7fb)|손병주|
 |🚀 1. [Spring Framework: Spring의 탄생](https://velog.io/@itoriginal/Spring-Framework-Basic-01)<br>2. [Spring Framework: "안녕하세요 Spring 입니다."](https://velog.io/@itoriginal/Spring-Framework-Basic-02)|송헌욱|
 |🚀 [Spring[Spring Core(1)_IOC/DI]](https://www.notion.so/5-4-Spring-Spring-Core-1-_IOC-DI-01c60fdddcf9400494469082b6e23a84)|이현범|
@@ -59,10 +59,10 @@
 
 |기록|담당자|
 |:---:|:---:|
-|🚀 [Spring 파헤치기 - 두번째 이야기](https://velog.io/@langoustine/Spring-02)|문태준|
+|🚀 [Spring 파헤치기 - Spring 파헤치기 - IoC와 DI, AOP, PSA에 대한 이야기](https://velog.io/@langoustine/Spring-02)|문태준|
 |🚀 [Spring AOP/PSA](https://glass-arthropod-188.notion.site/Spring-AOP-PSA-4e29a610130240be9e95b267cc9117a3)|손병주|
 |🚀 1. [Spring Framework: Spring AOP](https://velog.io/@itoriginal/Spring-Framework-Basic-03)<br>🚀 2. [Spring Framework: Spring PSA](https://velog.io/@itoriginal/Spring-Framework-Basic-04)|송헌욱|
-|🚀 [주제 및 링크를 등록하세요.](-)|이현범|
+|🚀 [-](-)|이현범|
 
 <br>
 
@@ -71,10 +71,10 @@
 
 |기록|담당자|
 |:---:|:---:|
-|🚀 [주제 및 링크를 등록하세요.](-)|문태준|
-|🚀 [주제 및 링크를 등록하세요.](-)|손병주|
-|🚀 [주제 및 링크를 등록하세요.](-)|송헌욱|
-|🚀 [주제 및 링크를 등록하세요.](-)|이현범|
+|🚀 [Spring 파헤치기 - Spring Container와 Annotation에 대한 이야기](https://velog.io/@langoustine/Spring-03)|문태준|
+|🚀 [Spring 동작원리](https://glass-arthropod-188.notion.site/Spring-db28597c98504d9096a77829acb80c31)|손병주|
+|🚀 [Spring Framework: MVC Project의 기본 구조와 원리](https://velog.io/@itoriginal/Spring-Framework-MVC-Project의-기본-구조와-원리)|송헌욱|
+|🚀 [Spring Container, Web MVC, Annotation](https://radical-syringa-6a9.notion.site/Spring-Container-Web-MVC-Annotation-10c0465a786040249684a4d84b8e718d)|이현범|
 
 <br>
 
@@ -90,3 +90,28 @@
   - [봄의 AOP와 Spring AOP](https://www.youtube.com/watch?v=hjDSKhyYK14&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=29&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC)
   - [제이의 Spring AOP](https://youtu.be/Hm0w_9ngDpM)
   - [뚱이의 AOP - Advice Target Pointcut](https://youtu.be/WQR_VQnz7Yg)
+
+<br><hr><br>
+
+## Weekly Record(3-4 Week of June, 2023)
+
+### STEP 1: Spring Boot로 개발한 프로젝트 리뷰 및 점검하기
+일자: 2023년 6월 3주차
+
+|기록|담당자|
+|:---:|:---:|
+|🚀 [주제 및 링크를 등록하세요.](-)|문태준|
+|🚀 [주제 및 링크를 등록하세요.](-)|손병주|
+|🚀 [주제 및 링크를 등록하세요.](-)|송헌욱|
+|🚀 [주제 및 링크를 등록하세요.](-)|이현범|
+
+<br>
+
+Project Github
+- [Saramara](https://github.com/four-uncles/saramara-community-server)
+
+<br>
+
+참고자료
+- 
+
