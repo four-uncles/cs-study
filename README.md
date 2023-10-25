@@ -1,5 +1,5 @@
 # 남정네들 CS 학습 공간
-다양한 컴퓨터 지식(CS)들을 각자 학습하고 공유하기 위한 저장소입니다.
+다양한 컴퓨터 지식(CS)들을 각자 학습하고 공유하기 위한 저장소입니다. (임시로 스터디는 중단되었습니다.)
 
 <br>
 
@@ -110,8 +110,4 @@
 Project Github
 - [Saramara](https://github.com/four-uncles/saramara-community-server)
 
-<br>
-
-참고자료
-- 
 
